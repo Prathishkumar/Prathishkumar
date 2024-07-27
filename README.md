@@ -1,25 +1,32 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20695
-Fork on GitHub
-6357
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://prathishkumar.io)
+## Hi there 👋 It's me Prathishkumar
 
-back to edit
+UG Student @ RIT Chennai
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🌱 I’m currently learning AWS cloud
+- 👯 I’m looking to collaborate on Cloud & Cyber Security
+- 🤔 I’m looking for help with Placements
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/prathish__kumar) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prathishkumar-t/)
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: I know Japanese.
 
-copy-markdown
 
-download markdown
 
-download backup
 
-preview
-<h1 align="center">Hi 👋, I'm Prathishkumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="prathishkumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathishkumar" alt="prathishkumar" /></a> </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Prathishkumar?theme=dark&font=Actor&ext=contest)
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
