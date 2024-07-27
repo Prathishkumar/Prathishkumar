@@ -1,8 +1,8 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://prathishkumar.io)
+[![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif)](https://prathishkumar.io)
 ## Hi there 👋 It's me Prathishkumar
 
 UG Student @ RIT Chennai
-<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning AWS cloud
 - 👯 I’m looking to collaborate on Cloud & Cyber Security
