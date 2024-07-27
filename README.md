@@ -26,11 +26,12 @@ UG Student @ RIT Chennai
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prathishkumar?theme=dark&font=Actor&ext=contest)
 
-[![Prathishkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathishkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathishkumar&show_icons=true&locale=en&layout=compact&theme=dark&show" alt="prathishkumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathishkumar&show_icons=true&locale=en&theme=dark&show" alt="prathishkumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathishkumar&&theme=dark&show" alt="prathishkumar" /></p>
+
+[![Prathishkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathishkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
