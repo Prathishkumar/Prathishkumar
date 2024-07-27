@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://prathishkumar.io)
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://prathishkumar.io)
 ## Hi there 👋 It's me Prathishkumar
 
 UG Student @ RIT Chennai
