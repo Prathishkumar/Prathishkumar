@@ -28,9 +28,8 @@ UG Student @ RIT Chennai
 
 [![Prathishkumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathishkumar&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Prathishkumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prathishkumar&&theme=xcode)](https://github.com/prathishkumar)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathishkumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prathishkumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathishkumar&show_icons=true&locale=en&layout=compact&theme=night" alt="prathishkumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathishkumar&show_icons=true&locale=en&theme=tokyonight" alt="prathishkumar" /></p>
 
