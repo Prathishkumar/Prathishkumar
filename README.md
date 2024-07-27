@@ -16,8 +16,7 @@ UG Student @ RIT Chennai
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prathish__kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathish__kumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathishkumar" height="30" width="40" /></a>
-<a href="https://fb.com/prathish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prathish" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathishkumar t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathishkumar t" height="30" width="40" /></a>
 <a href="https://instagram.com/prathish__kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathish__kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prathishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathishkumar" height="30" width="40" /></a>
 </p>
