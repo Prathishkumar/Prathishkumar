@@ -1,8 +1,8 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://prathishkumar.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://prathishkumar.io)
 ## Hi there 👋 It's me Prathishkumar
 
 UG Student @ RIT Chennai
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning AWS cloud
 - 👯 I’m looking to collaborate on Cloud & Cyber Security
@@ -21,8 +21,6 @@ UG Student @ RIT Chennai
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
 ![Prathishkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathishkumar&theme=dark&show_icons=true&&hide=issues,contribs)
 
