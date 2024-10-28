@@ -19,7 +19,7 @@ UG Student @ RIT Chennai
 <a href="https://linkedin.com/in/prathishkumar-t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathishkumar-t" height="30" width="40" /></a>
 <a href="https://instagram.com/prathish__kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathish__kumar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prathishkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathishkumar" height="30" width="40" /></a>
- <a href="https://www.geeksforgeeks.org/user/prathishkumar/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/fir-image-5f44a.appspot.com/o/images%2Fgeeks.png?alt=media&token=870d203c-ed92-422b-9724-ca867213630a" alt="prathishkumar" height="30" width="40" /></a>
+ <a href="https://www.geeksforgeeks.org/user/prathishkumar/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/fir-image-5f44a.appspot.com/o/images%2Fgeeks.png?alt=media&token=c16b5f7a-193d-4f29-bbc7-575367ec1697" height="30" width="40" /></a>
 </p>
 
 
